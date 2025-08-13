@@ -1,0 +1,19 @@
+For modern_housing_shell_01_furnished :- 
+
+For PS Housing Script : 
+
+```
+doorOffset = { x = 12.14, y = -0.40, z = -1.99, h = 93.18, width = 2.0 },
+```
+
+
+
+
+unfurnished door offset
+
+For modern_housing_shell_01_unfurnished :- 
+
+
+doorOffset = { x = 12.16, y = -0.43, z = -1.99, h = 84.13, width = 2.0 },
+
+
