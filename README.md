@@ -215,7 +215,7 @@ modern_housing_shell_01/
 
 ### Quick Setup (3 Minutes)
 
-1. **📥 Download** your purchased package from Tebex
+1. **📥 Download** the free package from this repository
 2. **📂 Extract** the files to your FiveM resources folder
 3. **⚙️ Choose** your preferred version:
    - Use `furnished_stream/` for complete setup
