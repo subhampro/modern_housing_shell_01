@@ -1,15 +1,35 @@
 <div align="center">
+
+## 💖 **SPECIAL DEDICATION**
+
+<div style="background: linear-gradient(45deg, #ff6b6b, #4ecdc4, #45b7d1); padding: 20px; border-radius: 15px; margin: 20px 0;">
+  
+### 👑 **Made with Love for** 👑
+# **👑𝓚𝓸𝓭𝔂👑**
+
+**Discord:** `kody4512` • **User ID:** `994275396235296891`
+
+*This housing shell is crafted exclusively for **Kody** and his **Lovely Community***
+
+🌟 *"Dedicated to creating amazing experiences for an incredible community"* 🌟
+
+</div>
+
+---
+
   <img src="https://img.shields.io/badge/FiveM-Shell-00d4aa?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJjdXJyZW50Q29sb3IiLz4KPC9zdmc+" alt="FiveM Shell"/>
-  <img src="https://img.shields.io/badge/Price-$5.00-gold?style=for-the-badge" alt="Price"/>
+  <img src="https://img.shields.io/badge/Price-FREE-brightgreen?style=for-the-badge" alt="Price"/>
   <img src="https://img.shields.io/badge/Status-Available-success?style=for-the-badge" alt="Status"/>
   <img src="https://img.shields.io/badge/Performance-Optimized-blue?style=for-the-badge" alt="Performance"/>
+  <br/>
+  <img src="https://img.shields.io/badge/👑_Made_for-Kody's_Community-ff69b4?style=for-the-badge" alt="Made for Kody"/>
 </div>
 
 # 🏠 FUTURISTIC HOUSING SHELL 01
 
 <div align="center">
   <h3>🚀 <em>Next-Generation Modern Living Space for FiveM</em> 🚀</h3>
-  <p><strong>Now Available at $5.00 (Furnished + Unfurnished)</strong></p>
+  <p><strong>🎁 FREE Housing Shell for Kody's Community! (Furnished + Unfurnished)</strong></p>
   
   [![Watch Trailer](https://img.shields.io/badge/📹_Watch-Trailer-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=0OCxpMr6XRA)
   [![Buy Now](https://img.shields.io/badge/🛒_Purchase-Tebex_Store-orange?style=for-the-badge)](https://subhampro.tebex.io/category/shells)
@@ -139,11 +159,11 @@ modern_housing_shell_01/
 
 ---
 
-## 💰 **PRICING & PURCHASE**
+## 🎁 **FREE COMMUNITY GIFT**
 
 <div align="center">
   
-### 🎯 **SPECIAL LAUNCH PRICE: $5.00**
+### 🌟 **COMPLETELY FREE FOR KODY'S COMMUNITY!**
 
 <table>
   <tr>
@@ -152,20 +172,26 @@ modern_housing_shell_01/
     <th>Price</th>
   </tr>
   <tr>
-    <td><strong>Complete Bundle</strong></td>
+    <td><strong>🎁 Complete Bundle</strong></td>
     <td>Furnished + Unfurnished + Full Support</td>
-    <td><strong>$5.00</strong></td>
+    <td><strong>✨ FREE ✨</strong></td>
   </tr>
   <tr>
-    <td><strong>Free Demo</strong></td>
-    <td>Preview layout and basic structure</td>
-    <td><strong>FREE</strong></td>
+    <td><strong>🏠 Furnished Version</strong></td>
+    <td>Ready-to-use with all furniture & decor</td>
+    <td><strong>✨ FREE ✨</strong></td>
+  </tr>
+  <tr>
+    <td><strong>🏗️ Unfurnished Shell</strong></td>
+    <td>Empty shell for custom decoration</td>
+    <td><strong>✨ FREE ✨</strong></td>
   </tr>
 </table>
 
-### 🛒 **GET IT NOW**
+### 📥 **GET IT FOR FREE**
 
-[![Tebex Store](https://img.shields.io/badge/🛒_Tebex_Store-Buy_Now-orange?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTcgNEg2QTIgMiAwIDAgMCA0IDZWMThBMiAyIDAgMCAwIDYgMjBIMThBMiAyIDAgMCAwIDIwIDE4VjZBMiAyIDAgMCAwIDE4IDRIMTdNOSA5SDE1TTkgMTNIMTVNOSAxN0gxMyIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+Cjwvc3ZnPgo=)](https://subhampro.tebex.io/category/shells)
+[![Download Free](https://img.shields.io/badge/📥_Download-FREE_for_Community-brightgreen?style=for-the-badge&logo=download)](https://github.com/SubhamPRO/modern_housing_shell_01)
+[![Discord Community](https://img.shields.io/badge/👑_Join-Kody's_Community-ff69b4?style=for-the-badge&logo=discord)](https://discord.gg/uKNaEe7CrE)
 
 </div>
 
